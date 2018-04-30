@@ -1,2 +1,2 @@
 README file for new project!
-This is a new file with more stuff.
+This is a new file with stuff.
